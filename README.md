@@ -12,8 +12,8 @@ This is an engine which will help out you to search for all the lyrics that we n
 ![image](https://user-images.githubusercontent.com/103228606/181439096-f124df6a-2293-4809-ad61-2a5175d042cf.png)
 
 
+![image](https://user-images.githubusercontent.com/103228606/181439270-dab96d76-83a0-4fe6-98e3-c0dc58d5f1b6.png)
 
-![image](https://user-images.githubusercontent.com/103228606/181439076-2e5abaf3-2e76-4cbd-a781-2200794a14b7.png)
 
 
 
