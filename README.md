@@ -9,10 +9,11 @@ This is an engine which will help out you to search for all the lyrics that we n
 ![image](https://user-images.githubusercontent.com/103228606/181439058-fc90d8aa-79ef-4264-b6ac-d5727378d0f2.png)
 
 
-![image](https://user-images.githubusercontent.com/103228606/181439096-f124df6a-2293-4809-ad61-2a5175d042cf.png)
+![image](https://user-images.githubusercontent.com/103228606/181439368-38d0454d-f699-49b2-9fbd-38c0b90e6a09.png)
 
 
-![image](https://user-images.githubusercontent.com/103228606/181439270-dab96d76-83a0-4fe6-98e3-c0dc58d5f1b6.png)
+![image](https://user-images.githubusercontent.com/103228606/181439429-394052dd-6413-4a44-a6e1-4e6107bb1df9.png)
+
 
 
 
